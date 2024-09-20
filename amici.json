@@ -3,23 +3,29 @@
       {
         "id": 1,
         "name": "Angelantonio Murolo",
-        "description": "Famoso bodybuilder,probabile causa del covid a molfetta con più di 42  vittime infettate."
+        "description": "Famoso bodybuilder,probabile causa del covid a molfetta con più di 42  vittime infettate.",
+         "image":"https://raw.github.com/Eldoardo26/nonciclopedia/blob/main/1.jpg"
       },
       {
         "id": 2,
         "name": "Francesco Pappagallo",
-        "description": "Francesco è famoso per le cazzate che spara, sin dalla gioventù il titolo a lui attribuito è franco spara puttanate"},
+        "description": "Francesco è famoso per le cazzate che spara, sin dalla gioventù il titolo a lui attribuito è franco spara puttanate",
+             "image":"https://raw.github.com/Eldoardo26/nonciclopedia/blob/main/2.jpg"
+},
       {
         "id": 3,
         "name": "Sergio Binetti",
+             "image":"https://raw.github.com/Eldoardo26/nonciclopedia/blob/main/3.jpg",
         "description":"Sergio binetti è un famoso vescovo e duellante di yugioh. nasce il 12 dicembre 2002 e acquista in gioventù la nomea di pipe de fierro per via delle sue innate abilità futbolistiche" },
       {
         "id": 4,
+             "image":"https://raw.github.com/Eldoardo26/nonciclopedia/blob/main/4.jpg",
         "name": "Eugenia mezzina",
         "description": "eugenia mezzina è la fidanzata di Edoardo Michele Bufi. Studia medicina ed è famosa per la sua capacità di rinchiudersi in casa a studiare 25 ore su 24.E' lievemente razzista.Le puzzano le ascelle"
       },
       {
-        "id": 4,
+        "id": 5,
+             "image":"https://raw.github.com/Eldoardo26/nonciclopedia/blob/main/5.jpg",
         "name": "Michele la rocca",
         "description": "un pagliaccio "}
       ]
