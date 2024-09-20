@@ -1,0 +1,27 @@
+{
+    "friends": [
+      {
+        "id": 1,
+        "name": "Angelantonio Murolo",
+        "description": "Famoso bodybuilder,probabile causa del covid a molfetta con più di 42  vittime infettate."
+      },
+      {
+        "id": 2,
+        "name": "Francesco Pappagallo",
+        "description": "Francesco è famoso per le cazzate che spara, sin dalla gioventù il titolo a lui attribuito è franco spara puttanate"},
+      {
+        "id": 3,
+        "name": "Sergio Binetti",
+        "description":"Sergio binetti è un famoso vescovo e duellante di yugioh. nasce il 12 dicembre 2002 e acquista in gioventù la nomea di pipe de fierro per via delle sue innate abilità futbolistiche" },
+      {
+        "id": 4,
+        "name": "Eugenia mezzina",
+        "description": "eugenia mezzina è la fidanzata di Edoardo Michele Bufi. Studia medicina ed è famosa per la sua capacità di rinchiudersi in casa a studiare 25 ore su 24.E' lievemente razzista.Le puzzano le ascelle"
+      },
+      {
+        "id": 4,
+        "name": "Michele la rocca",
+        "description": "un pagliaccio "}
+      ]
+  }
+  
